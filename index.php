@@ -1,6 +1,6 @@
 <?php
 /**
- * le fichier d exercices
+ * le fichier d exercices editer 
  */
 if(isset($_POST['send'])){
     if(!empty($_POST['nom'] )AND !empty($_POST['username']  )  and !empty($_POST['email'])
