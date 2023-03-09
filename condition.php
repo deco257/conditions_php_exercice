@@ -1,4 +1,7 @@
 <?php
+/**
+ * conditons
+ */
 $nombre=1;
 $text="deco";
 $j=5;
